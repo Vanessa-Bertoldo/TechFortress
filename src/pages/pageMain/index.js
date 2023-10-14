@@ -1,5 +1,11 @@
+import Banner from "components/Banner";
+
 export default function PageMain(){
     return(
-        <h1>PAGE MAIN</h1>
+        <main>
+            <Banner/>
+            <h1>PAGE MAIN</h1>
+        </main>
+        
     )
 }
