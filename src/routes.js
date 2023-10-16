@@ -4,6 +4,7 @@ import PageTwo from "./pages/pageTwo";
 import Menu from "./components/Menu";
 import Footer from "components/Footer";
 import PageDefault from "components/PageDeafult";
+import PostPage from "pages/Post";
 
 console.log("location",window.location)
 
@@ -17,6 +18,7 @@ function AppRoutes() {
           <Route path="/" element={<PageMain/>}/>
         </Route>
         <Route path="/news" element={<PageTwo/>}/>
+        <Route path="posts/:id" element={<PostPage/>}/>
         <Route path="*" element={<div>404 PAGE NOT FOUND</div>}/>
       </Routes>
     <Footer/>
