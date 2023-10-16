@@ -1,3 +1,20 @@
+
+
+# TechFortress
+Project developed with react using the features of the router dom.
+## Desing
+
+
+![gif apresentation](https://github.com/Vanessa-Bertoldo/TechFortress/blob/main/public/apresen.gif)
+<br/>
+link to view in vercel [https://tech-fortress.vercel.app/news]
+<br/>
+Fonte das imagens: [Pixels](https://www.pexels.com/search/pixels/)*
+<br/>
+Fonte do conteúdo: [ChatGPT](https://chat.openai.com/)*
+
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
