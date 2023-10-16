@@ -5,9 +5,7 @@ import Post from "components/Post";
 
 export default function PageMain(){
     return(
-        <main>
-            <Banner/>
-            <ul className={styles.posts}>
+        <ul className={styles.posts}>
                 {posts.map((post) => (
                     <li key={post.id}>
                         <Post
@@ -15,8 +13,7 @@ export default function PageMain(){
                         />
                     </li>
                 ))}
-            </ul>
-        </main>
+        </ul>
         
     )
 }
