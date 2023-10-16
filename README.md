@@ -9,9 +9,9 @@ Project developed with react using the features of the router dom.
 <br/>
 link to view in vercel [https://tech-fortress.vercel.app/news]
 <br/>
-Fonte das imagens: [Pixels](https://www.pexels.com/search/pixels/)*
+source of images: [Pixels](https://www.pexels.com/search/pixels/)*
 <br/>
-Fonte do conteúdo: [ChatGPT](https://chat.openai.com/)*
+source of content: [ChatGPT](https://chat.openai.com/)*
 
 #
 
